@@ -2,4 +2,4 @@ requests
 streamlit
 numpy
 pandas
-ploty
+plotly
